@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+
+<suite name="Master Suite">
+	
+	<listeners>
+		<listener class-name="utils.ExtentReportListener" />
+	</listeners>
+	
+	<test name="All Tests">
+	
+		<!-- Hide these Parameters then value will getting pick from the Config.properties to use different config.properteis we need to hide them -->
+    	<!-- Removing this from the code because it is old approach which used in the AUtomation -->
+    <!--	<parameter name="os" value="Windows"/>
+    	<parameter name="browser" value="chrome"/> -->
+
+    	<classes>
+      		<class name="tests.LoginTest"/>
+      		<class name="tests.AccountRegistrationTest"/>
+    	</classes>
+
+  </test>
+	
+</suite>

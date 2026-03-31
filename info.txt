@@ -1,0 +1,29 @@
+// To run a specific group test we will run the command like this 
+mvn clean test -Dgroups=Sanity etc
+
+//To hide the unwanted details of the test we run 
+mvn -q clean test something like this
+
+//In the project we implemented the config.properties to take value dynimically so there is a slight change 
+which is there is certain priority on this things have to run 
+CLI Parameters > Environment COnfig > Default Config
+we use this setup to implement and run things smothly in the CI
+
+example like CLI -> testing.xml -> config.properties
+
+if i don't give the value from cli it will take parameters from the testing.xml
+and if there is also not present then i will pick thing from config.properties
+
+//to run a selenium grid server local use this command in opening the grid folder
+java -jar selenium-server-4.41.0.jar standalone
+
+you can run docker container from its apps and see the sessions onthe localhost:4444 only
+
+
+Run this command in the folder where you put the docker-compose.yml file which contains the basic configuration of running the docker
+use this command to run install the remoteserver in docker
+docker-compose up -d
+
+blow are use to remove those file which we installed
+docker-compose down
+docker system prune -f

@@ -1,0 +1,725 @@
+2026-03-29 19:41:05 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 19:41:06 INFO  LoginTest:21 - Starting browser...
+2026-03-29 19:41:09 INFO  LoginTest:24 - Browser Started Successfully
+2026-03-29 19:41:09 INFO  LoginTest:17 - ******* Starting TC_02_LoginTest *********
+2026-03-29 19:41:11 INFO  LoginTest:44 - ****** Finished TC_02_LoginTest ********
+2026-03-29 19:41:12 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 19:41:14 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 19:41:14 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 19:41:15 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 19:41:18 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 19:41:18 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 19:44:57 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 19:44:57 INFO  LoginTest:21 - Starting browser...
+2026-03-29 19:45:01 INFO  LoginTest:24 - Browser Started Successfully
+2026-03-29 19:45:01 INFO  LoginTest:17 - ******* Starting TC_02_LoginTest *********
+2026-03-29 19:45:09 INFO  LoginTest:44 - ****** Finished TC_02_LoginTest ********
+2026-03-29 19:45:09 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 19:45:12 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 19:45:12 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 19:45:13 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 19:45:15 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 19:45:15 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 21:07:42 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 21:19:29 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 21:23:36 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 21:23:36 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 21:23:40 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 21:23:40 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 21:23:41 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 21:23:43 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 21:23:43 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 21:24:33 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 21:24:34 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 21:24:37 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 21:24:37 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 21:24:38 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 21:24:40 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 21:24:40 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 21:28:33 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 21:28:33 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 21:28:37 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 21:28:37 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 21:28:38 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 21:28:39 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 21:28:40 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 21:30:08 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 21:30:08 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 21:30:14 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 21:30:14 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 21:30:16 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 21:30:21 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 21:30:21 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 21:30:22 INFO  AccountRegistrationTest:31 - Browser Closed and Clean Successfully
+2026-03-29 22:51:12 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 22:51:13 INFO  LoginTest:21 - Starting browser...
+2026-03-29 22:51:16 INFO  LoginTest:24 - Browser Started Successfully
+2026-03-29 22:51:16 INFO  LoginTest:17 - ******* Starting TC_02_LoginTest *********
+2026-03-29 22:51:20 INFO  LoginTest:44 - ****** Finished TC_02_LoginTest ********
+2026-03-29 22:51:20 INFO  LoginTest:31 - Browser Closed and Clean Successfully
+2026-03-29 22:51:20 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 22:51:22 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 22:51:22 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 22:51:24 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 22:51:26 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 22:51:26 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 22:51:26 INFO  AccountRegistrationTest:31 - Browser Closed and Clean Successfully
+2026-03-29 22:54:53 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-29 22:54:54 INFO  LoginTest:21 - Starting browser...
+2026-03-29 22:54:57 INFO  LoginTest:24 - Browser Started Successfully
+2026-03-29 22:54:57 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-29 22:55:01 INFO  LoginTest:47 - ****** Finished TC_02_LoginTest ********
+2026-03-29 22:55:01 INFO  LoginTest:31 - Browser Closed and Clean Successfully
+2026-03-29 22:55:01 INFO  AccountRegistrationTest:21 - Starting browser...
+2026-03-29 22:55:04 INFO  AccountRegistrationTest:24 - Browser Started Successfully
+2026-03-29 22:55:04 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-29 22:55:05 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-29 22:55:08 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-29 22:55:08 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-29 22:55:09 INFO  AccountRegistrationTest:31 - Browser Closed and Clean Successfully
+2026-03-30 11:23:08 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 11:24:30 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 11:45:00 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 11:45:01 INFO  LoginTest:25 - Starting browser...
+2026-03-30 11:45:08 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 11:45:08 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 11:45:12 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:45:12 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 11:45:14 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 11:45:14 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 11:45:15 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 11:45:17 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 11:45:18 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 11:45:18 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:50:30 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 11:50:31 INFO  LoginTest:25 - Starting browser...
+2026-03-30 11:50:35 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 11:50:35 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 11:50:38 INFO  LoginTest:47 - ****** Finished TC_02_LoginTest ********
+2026-03-30 11:50:38 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:50:38 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 11:50:40 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 11:50:40 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 11:50:41 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 11:50:44 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 11:50:44 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 11:50:44 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:51:55 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 11:51:55 INFO  LoginTest:25 - Starting browser...
+2026-03-30 11:51:58 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 11:51:58 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 11:52:01 INFO  LoginTest:47 - ****** Finished TC_02_LoginTest ********
+2026-03-30 11:52:02 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:52:02 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 11:52:05 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 11:52:05 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 11:52:06 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 11:52:10 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 11:52:10 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 11:52:10 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:52:29 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 11:52:29 INFO  LoginTest:25 - Starting browser...
+2026-03-30 11:52:33 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 11:52:33 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 11:52:35 INFO  LoginTest:47 - ****** Finished TC_02_LoginTest ********
+2026-03-30 11:52:35 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:54:07 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 11:54:07 INFO  LoginTest:25 - Starting browser...
+2026-03-30 11:54:17 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 11:54:17 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 11:54:19 INFO  LoginTest:47 - ****** Finished TC_02_LoginTest ********
+2026-03-30 11:54:20 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 11:54:20 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 11:54:28 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 11:54:28 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 11:54:28 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 11:54:30 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 11:54:30 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 11:54:32 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 14:50:31 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 14:51:32 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 14:51:32 INFO  LoginTest:25 - Starting browser...
+2026-03-30 14:51:36 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 14:51:37 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 14:51:37 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 14:51:37 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 14:51:40 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 14:51:40 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 14:51:40 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 14:53:09 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 14:53:10 INFO  LoginTest:25 - Starting browser...
+2026-03-30 14:53:13 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 14:53:13 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 14:53:15 INFO  LoginTest:47 - ****** Finished TC_02_LoginTest ********
+2026-03-30 14:53:16 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 14:53:16 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 14:53:18 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 14:53:18 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 14:53:20 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 14:53:22 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 14:53:22 INFO  AccountRegistrationTest:52 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 14:53:23 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 14:53:49 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 14:53:49 INFO  LoginTest:25 - Starting browser...
+2026-03-30 14:53:52 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 14:53:52 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 14:53:53 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 14:53:53 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 14:53:56 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 14:53:56 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 14:53:56 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 15:07:23 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 15:07:23 INFO  LoginTest:25 - Starting browser...
+2026-03-30 15:07:27 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 15:07:27 INFO  LoginTest:18 - ******* Starting TC_02_LoginTest *********
+2026-03-30 15:07:37 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 15:07:37 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 15:07:40 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 15:07:40 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 15:07:50 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:22:32 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 16:22:33 INFO  LoginTest:25 - Starting browser...
+2026-03-30 16:22:37 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 16:22:37 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 16:22:48 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:22:48 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 16:22:50 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 16:22:50 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 16:23:01 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:26:33 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 16:26:33 INFO  LoginTest:25 - Starting browser...
+2026-03-30 16:26:36 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 16:26:36 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 16:26:47 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:26:47 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 16:26:49 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 16:26:49 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 16:27:00 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:42:35 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 16:42:35 INFO  LoginTest:25 - Starting browser...
+2026-03-30 16:42:38 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 16:42:38 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 16:42:50 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:42:50 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 16:42:53 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 16:42:53 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 16:43:03 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:44:53 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 16:44:53 INFO  LoginTest:25 - Starting browser...
+2026-03-30 16:44:57 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 16:44:57 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 16:45:00 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 16:45:01 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:45:01 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 16:45:06 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 16:45:06 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 16:45:08 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 16:45:10 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 16:45:10 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 16:45:11 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:51:40 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 16:51:40 INFO  LoginTest:25 - Starting browser...
+2026-03-30 16:51:44 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 16:51:44 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 16:51:46 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 16:51:46 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:51:46 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 16:51:48 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 16:51:48 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 16:51:49 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 16:51:50 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 16:51:50 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 16:51:50 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:52:51 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 16:52:51 INFO  LoginTest:25 - Starting browser...
+2026-03-30 16:52:55 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 16:52:55 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 16:52:57 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 16:52:57 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 16:52:57 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 16:52:59 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 16:52:59 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 16:53:00 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 16:53:01 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 16:53:01 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 16:53:02 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 21:02:56 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\Selenium\MYworkspace\opencartRemort\master.xml] otherwise TestNG may fail or not work as expected.
+2026-03-30 21:02:57 INFO  LoginTest:25 - Starting browser...
+2026-03-30 21:03:01 INFO  LoginTest:28 - Browser Started Successfully
+2026-03-30 21:03:01 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 21:03:04 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 21:03:04 INFO  LoginTest:35 - Browser Closed and Clean Successfully
+2026-03-30 21:03:04 INFO  AccountRegistrationTest:25 - Starting browser...
+2026-03-30 21:03:07 INFO  AccountRegistrationTest:28 - Browser Started Successfully
+2026-03-30 21:03:07 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 21:03:08 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 21:03:10 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 21:03:10 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 21:03:10 INFO  AccountRegistrationTest:35 - Browser Closed and Clean Successfully
+2026-03-30 21:25:11 INFO  LoginTest:26 - Starting browser...
+2026-03-30 21:25:11 INFO  LoginTest:26 - Starting browser...
+2026-03-30 21:25:11 INFO  LoginTest:26 - Starting browser...
+2026-03-30 21:25:30 INFO  LoginTest:29 - Browser Started Successfully
+2026-03-30 21:25:30 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 21:25:32 INFO  LoginTest:29 - Browser Started Successfully
+2026-03-30 21:25:32 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 21:25:33 INFO  LoginTest:29 - Browser Started Successfully
+2026-03-30 21:25:33 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 21:25:40 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 21:25:40 INFO  AccountRegistrationTest:26 - Starting browser...
+2026-03-30 21:25:41 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 21:25:41 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 21:25:47 INFO  AccountRegistrationTest:29 - Browser Started Successfully
+2026-03-30 21:25:47 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 21:25:49 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 21:25:51 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 21:25:51 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 21:25:53 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 21:28:10 INFO  LoginTest:26 - Starting browser...
+2026-03-30 21:28:10 INFO  LoginTest:26 - Starting browser...
+2026-03-30 21:28:10 INFO  LoginTest:26 - Starting browser...
+2026-03-30 21:28:29 INFO  LoginTest:29 - Browser Started Successfullychrome
+2026-03-30 21:28:29 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 21:28:30 INFO  LoginTest:29 - Browser Started Successfullyfirefox
+2026-03-30 21:28:30 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 21:28:32 INFO  LoginTest:29 - Browser Started Successfullyedge
+2026-03-30 21:28:32 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 21:28:36 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 21:28:36 INFO  AccountRegistrationTest:26 - Starting browser...
+2026-03-30 21:28:36 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 21:28:39 INFO  AccountRegistrationTest:29 - Browser Started Successfullyedge
+2026-03-30 21:28:39 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 21:28:39 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 21:28:40 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 21:28:41 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 21:28:42 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 21:28:42 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:04:04 INFO  LoginTest:26 - Starting browser...
+2026-03-30 22:04:04 INFO  LoginTest:26 - Starting browser...
+2026-03-30 22:04:04 INFO  LoginTest:26 - Starting browser...
+2026-03-30 22:04:19 INFO  LoginTest:29 - Browser Started Successfullyfirefox
+2026-03-30 22:04:19 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:04:20 INFO  LoginTest:29 - Browser Started Successfullyedge
+2026-03-30 22:04:20 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:04:24 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:04:24 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:04:26 INFO  LoginTest:29 - Browser Started Successfullychrome
+2026-03-30 22:04:26 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:04:28 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:04:31 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:04:31 INFO  AccountRegistrationTest:26 - Starting browser...
+2026-03-30 22:04:31 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:04:31 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:04:39 INFO  AccountRegistrationTest:29 - Browser Started Successfullyfirefox
+2026-03-30 22:04:39 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 22:04:39 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 22:04:41 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 22:04:41 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 22:04:43 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:08:30 INFO  LoginTest:26 - Starting browser...
+2026-03-30 22:08:30 INFO  LoginTest:26 - Starting browser...
+2026-03-30 22:08:30 INFO  LoginTest:26 - Starting browser...
+2026-03-30 22:08:38 INFO  LoginTest:29 - Browser Started Successfullychrome
+2026-03-30 22:08:38 INFO  LoginTest:29 - Browser Started Successfullyfirefox
+2026-03-30 22:08:38 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:08:38 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:08:38 INFO  LoginTest:29 - Browser Started Successfullyedge
+2026-03-30 22:08:38 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:08:45 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:08:45 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:08:45 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:08:48 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:08:49 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:08:50 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:08:50 INFO  AccountRegistrationTest:26 - Starting browser...
+2026-03-30 22:08:52 INFO  AccountRegistrationTest:29 - Browser Started Successfullyedge
+2026-03-30 22:08:52 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 22:08:53 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 22:08:56 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 22:08:56 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 22:08:57 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:13:13 INFO  LoginTest:26 - Starting browser...chrome
+2026-03-30 22:13:13 INFO  LoginTest:26 - Starting browser...firefox
+2026-03-30 22:13:13 INFO  LoginTest:26 - Starting browser...edge
+2026-03-30 22:13:24 INFO  LoginTest:29 - Browser Started Successfullyfirefox
+2026-03-30 22:13:24 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:13:27 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:13:33 INFO  LoginTest:29 - Browser Started Successfullyedge
+2026-03-30 22:13:33 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:13:35 INFO  LoginTest:29 - Browser Started Successfullychrome
+2026-03-30 22:13:35 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:13:36 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:13:39 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:13:42 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:13:42 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:13:42 INFO  AccountRegistrationTest:26 - Starting browser...firefox
+2026-03-30 22:13:43 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:13:50 INFO  AccountRegistrationTest:29 - Browser Started Successfullyfirefox
+2026-03-30 22:13:50 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 22:13:51 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 22:13:52 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 22:13:52 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 22:13:54 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:29:50 INFO  LoginTest:26 - Starting browser...chrome
+2026-03-30 22:29:50 INFO  LoginTest:26 - Starting browser...firefox
+2026-03-30 22:29:50 INFO  LoginTest:26 - Starting browser...edge
+2026-03-30 22:29:58 INFO  LoginTest:29 - Browser Started Successfullyfirefox
+2026-03-30 22:29:59 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:29:59 INFO  LoginTest:29 - Browser Started Successfullychrome
+2026-03-30 22:29:59 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:30:00 INFO  LoginTest:29 - Browser Started Successfullyedge
+2026-03-30 22:30:00 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:30:19 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:30:19 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:30:20 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:30:20 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:30:21 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:30:21 INFO  AccountRegistrationTest:26 - Starting browser...chrome
+2026-03-30 22:30:21 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:30:24 INFO  AccountRegistrationTest:29 - Browser Started Successfullychrome
+2026-03-30 22:30:24 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 22:30:25 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 22:30:29 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 22:30:29 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 22:30:30 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:53:57 INFO  LoginTest:26 - Starting browser...chrome
+2026-03-30 22:53:57 INFO  LoginTest:26 - Starting browser...edge
+2026-03-30 22:53:57 INFO  LoginTest:26 - Starting browser...firefox
+2026-03-30 22:54:02 INFO  LoginTest:29 - Browser Started Successfullychrome
+2026-03-30 22:54:03 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:54:03 INFO  LoginTest:29 - Browser Started Successfullyedge
+2026-03-30 22:54:03 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:54:04 INFO  LoginTest:29 - Browser Started Successfullyfirefox
+2026-03-30 22:54:04 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 22:54:08 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:54:09 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:54:09 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 22:54:12 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:54:14 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:54:14 INFO  AccountRegistrationTest:26 - Starting browser...chrome
+2026-03-30 22:54:14 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 22:54:16 INFO  AccountRegistrationTest:29 - Browser Started Successfullychrome
+2026-03-30 22:54:16 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 22:54:18 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 22:54:20 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 22:54:20 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 22:54:21 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:01:15 INFO  LoginTest:26 - Starting browser...edge
+2026-03-30 23:01:15 INFO  LoginTest:26 - Starting browser...chrome
+2026-03-30 23:01:15 INFO  LoginTest:26 - Starting browser...firefox
+2026-03-30 23:01:21 INFO  LoginTest:29 - Browser Started Successfullyfirefox
+2026-03-30 23:01:22 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:01:24 INFO  LoginTest:29 - Browser Started Successfullyedge
+2026-03-30 23:01:24 INFO  LoginTest:29 - Browser Started Successfullychrome
+2026-03-30 23:01:24 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:01:24 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:01:31 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:01:31 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:01:31 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:01:33 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:01:33 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:01:33 INFO  AccountRegistrationTest:26 - Starting browser...edge
+2026-03-30 23:01:37 INFO  AccountRegistrationTest:29 - Browser Started Successfullyedge
+2026-03-30 23:01:37 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:01:38 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:01:38 INFO  AccountRegistrationTest:26 - Starting browser...edge
+2026-03-30 23:01:38 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:01:41 INFO  AccountRegistrationTest:29 - Browser Started Successfullyedge
+2026-03-30 23:01:41 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:01:42 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:01:43 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:01:43 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:01:44 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:01:44 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:01:44 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:01:45 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:08:49 INFO  LoginTest:26 - Starting browser... edge
+2026-03-30 23:08:49 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:08:49 INFO  LoginTest:26 - Starting browser... firefox
+2026-03-30 23:09:04 INFO  LoginTest:29 - Browser Started Successfully - firefox
+2026-03-30 23:09:04 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:09:05 INFO  LoginTest:29 - Browser Started Successfully - edge
+2026-03-30 23:09:05 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:09:08 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:09:11 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:09:12 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:09:12 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:09:14 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:09:18 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:09:19 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:09:19 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-30 23:09:19 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:09:19 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-30 23:09:34 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-30 23:09:34 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:09:34 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-30 23:09:34 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:09:37 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:09:37 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:09:40 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:09:40 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:09:40 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:09:40 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:09:43 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:09:44 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:30:15 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:30:15 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:30:15 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:30:23 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:30:23 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:30:24 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:30:24 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:30:24 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:30:24 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:30:30 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:30:30 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:30:30 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:30:31 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:30:31 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:30:31 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:30:31 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:30:32 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:30:34 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:30:34 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:30:35 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:30:35 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:30:37 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:30:38 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:30:41 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:30:41 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:30:41 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:30:41 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:30:41 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:30:41 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:34:51 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:34:51 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:34:51 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:34:56 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:34:56 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:34:56 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:34:56 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:34:58 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:34:58 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:35:10 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:35:10 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:35:10 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:35:12 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:12 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:35:12 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:14 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:14 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:35:15 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:35:15 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:35:16 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:35:16 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:35:17 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:35:18 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:35:20 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:35:20 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:35:20 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:35:21 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:35:21 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:21 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:36 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:35:36 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:35:41 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:35:41 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:35:41 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:35:41 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:35:42 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:35:44 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:35:44 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:45 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:35:45 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:35:47 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:47 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:35:49 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:35:49 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:35:51 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:35:52 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:35:52 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:35:52 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:35:55 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:35:55 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:35:56 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:35:56 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:35:57 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:35:59 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:35:59 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:35:59 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:36:00 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:36:00 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:36:31 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:36:31 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:36:36 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:36:36 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:36:36 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:36:36 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:36:37 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:36:39 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:36:39 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:36:40 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:36:40 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:36:40 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:36:41 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:36:43 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:36:43 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:36:45 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:36:46 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:36:46 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:36:46 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:36:49 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:36:49 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:36:49 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:36:49 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:36:50 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:36:53 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:36:53 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:36:53 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:36:54 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:36:54 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:41:11 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:41:11 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:41:11 INFO  LoginTest:26 - Starting browser... firefox
+2026-03-30 23:41:15 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:41:16 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:41:17 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:41:17 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:41:18 INFO  LoginTest:29 - Browser Started Successfully - firefox
+2026-03-30 23:41:18 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:41:19 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:41:22 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:41:23 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:41:23 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:41:23 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:41:24 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:41:24 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:41:24 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:41:24 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-30 23:41:24 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-30 23:41:28 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:41:28 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-30 23:41:28 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-30 23:41:28 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-30 23:41:29 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-30 23:41:31 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-30 23:41:31 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-30 23:41:32 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-30 23:41:32 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-30 23:41:32 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:04:00 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-31 14:04:00 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-31 14:04:13 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-31 14:04:13 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 14:04:16 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 14:04:21 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 14:04:22 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 14:04:22 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:04:26 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-31 14:04:26 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:04:28 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:04:28 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:04:30 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-31 14:04:33 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-31 14:04:33 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:04:35 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:04:35 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:04:35 INFO  AccountRegistrationTest:26 - Starting browser... chrome
+2026-03-31 14:04:35 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-31 14:04:38 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-31 14:04:38 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:04:41 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:04:41 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:04:43 INFO  AccountRegistrationTest:29 - Browser Started Successfully - chrome
+2026-03-31 14:04:43 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 14:04:44 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 14:04:47 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 14:04:47 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 14:04:47 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:07:34 INFO  LoginTest:26 - Starting browser... firefox
+2026-03-31 14:07:34 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-31 14:07:46 INFO  LoginTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:07:46 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:07:52 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:07:53 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:07:54 INFO  LoginTest:26 - Starting browser... firefox
+2026-03-31 14:07:58 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-31 14:07:58 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:08:01 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:08:02 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:08:02 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-31 14:08:07 INFO  LoginTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:08:07 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:08:10 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:08:11 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:08:11 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-31 14:08:16 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:08:16 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 14:08:18 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 14:08:21 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 14:08:21 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 14:08:22 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:08:27 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:08:27 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 14:08:28 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 14:08:30 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 14:08:31 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 14:08:32 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:13:39 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-31 14:13:39 INFO  LoginTest:26 - Starting browser... firefox
+2026-03-31 14:13:46 INFO  LoginTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:13:46 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:13:49 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:13:50 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:13:51 INFO  LoginTest:26 - Starting browser... firefox
+2026-03-31 14:14:00 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-31 14:14:00 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:14:02 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:14:04 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:14:04 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-31 14:14:11 INFO  LoginTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:14:11 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 14:14:17 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 14:14:19 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:14:19 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-31 14:14:25 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:14:25 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 14:14:27 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 14:14:29 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 14:14:29 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 14:14:30 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 14:14:37 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-31 14:14:37 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 14:14:38 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 14:14:41 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 14:14:41 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 14:14:43 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 15:52:39 INFO  LoginTest:26 - Starting browser... edge
+2026-03-31 15:52:39 INFO  LoginTest:26 - Starting browser... chrome
+2026-03-31 15:52:39 INFO  LoginTest:26 - Starting browser... firefox
+2026-03-31 15:52:52 INFO  LoginTest:29 - Browser Started Successfully - firefox
+2026-03-31 15:52:52 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 15:52:55 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 15:52:56 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 15:53:02 INFO  LoginTest:29 - Browser Started Successfully - edge
+2026-03-31 15:53:02 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 15:53:06 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 15:53:07 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 15:53:07 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-31 15:53:11 INFO  LoginTest:29 - Browser Started Successfully - chrome
+2026-03-31 15:53:11 INFO  LoginTest:19 - ******* Starting TC_02_LoginTest *********
+2026-03-31 15:53:15 INFO  LoginTest:46 - ****** Finished TC_02_LoginTest ********
+2026-03-31 15:53:16 INFO  LoginTest:36 - Browser Closed and Clean Successfully
+2026-03-31 15:53:16 INFO  AccountRegistrationTest:26 - Starting browser... firefox
+2026-03-31 15:53:22 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-31 15:53:22 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 15:53:23 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 15:53:24 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 15:53:25 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 15:53:26 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
+2026-03-31 15:53:30 INFO  AccountRegistrationTest:29 - Browser Started Successfully - firefox
+2026-03-31 15:53:30 INFO  AccountRegistrationTest:18 - *********** Starting TC01 Account Registration Test *************
+2026-03-31 15:53:32 INFO  AccountRegistrationTest:28 - Providing Customer Details...
+2026-03-31 15:53:34 INFO  AccountRegistrationTest:39 - Validate expected message
+2026-03-31 15:53:34 INFO  AccountRegistrationTest:58 - **** Finished TC001_AccountRegisterationTest !****
+2026-03-31 15:53:35 INFO  AccountRegistrationTest:36 - Browser Closed and Clean Successfully
