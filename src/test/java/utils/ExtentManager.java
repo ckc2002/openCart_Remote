@@ -14,6 +14,7 @@ public class ExtentManager {
             ExtentSparkReporter spark =
                     new ExtentSparkReporter("reports/ExtentReport.html");
 
+            spark.config().setOfflineMode(true);
             spark.config().setReportName("OpenCart Automation Report");
             spark.config().setDocumentTitle("Test Execution Results");
 
